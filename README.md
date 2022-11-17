@@ -2,7 +2,7 @@
 
 👩🏻‍💻 I’m a 3rd year studying Computer Science and Cognitive Science at the University of Toronto!
 
-👀 I love web development and [game development](https://mimimosa.itch.io/). One of my favourite things in the world is realizing an abstract idea into delightful software that people can engage with.
+👀 I love web development and [game development](https://mimimosa.itch.io/). One of my favourite things in the world to do is realizing ideas into delightful software that people can engage with.
 
 🌱 I’m currently learning OpenGL in my Computer Graphics course!
 
