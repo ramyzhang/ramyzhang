@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning OpenGL and audio programming with JUCE!
 
-🔬 My biggest project at the moment is leading the development of this [lesson planner tool](https://github.com/uoftblueprint/sistema) for Sistema Toronto, a non-profit for early childhood music education!
+🔬 My biggest project at the moment is co-leading the development of this [lesson planner tool](https://github.com/uoftblueprint/sistema) for Sistema Toronto, a non-profit for early childhood music education!
 
 📫 Check out my [personal website](https://ramyzhang.com/) to learn more about me!
 
