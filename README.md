@@ -1,6 +1,6 @@
 👋 Hi, I’m @ramyzhang, currently a 3rd year studying Computer Science and Cognitive Science at the University of Toronto!
 
-👀 I’m interested in web development and [games](https://mimimosa.itch.io/)! I love the feeling of realizing an abstract idea into delightful software that people can engage with 😊
+👀 I’m interested in web development and [games](https://mimimosa.itch.io/)! One of my favourite things in the world is realizing an abstract idea into delightful software that people can engage with.
 
 🌱 I’m currently learning OpenGL and audio programming with JUCE!
 
