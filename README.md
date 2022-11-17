@@ -1,10 +1,12 @@
-👋 Hi hi, I’m @ramyzhang, currently a 3rd year studying Computer Science and Cognitive Science at the University of Toronto!
+### Hi hi hello! 
 
-👀 I’m interested in web development and [games](https://mimimosa.itch.io/)! One of my favourite things in the world is realizing an abstract idea into delightful software that people can engage with.
+👋 I’m a 3rd year studying Computer Science and Cognitive Science at the University of Toronto!
 
-🌱 I’m currently learning OpenGL and audio programming with JUCE!
+👀 I love web development and [game development](https://mimimosa.itch.io/). One of my favourite things in the world is realizing an abstract idea into delightful software that people can engage with.
 
-🔬 My biggest project at the moment is co-leading the development of this [lesson planner tool](https://github.com/uoftblueprint/sistema) for Sistema Toronto, a non-profit for early childhood music education!
+🌱 I’m currently learning OpenGL in my Computer Graphics course!
+
+🎶 My biggest project at the moment is co-leading the development of this [lesson planner tool](https://github.com/uoftblueprint/sistema) for Sistema Toronto, a non-profit for early childhood music education.
 
 📫 Check out my [personal website](https://ramyzhang.com/) to learn more about me!
 
