@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning OpenGL and audio programming with JUCE!
 
-📫 Check out my [personal website](https://ramyzhang.com/) to learn more about my projects!
+📫 Check out my [personal website](https://ramyzhang.com/) to learn more about me!
 
 <!---
 ramyzhang/ramyzhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
