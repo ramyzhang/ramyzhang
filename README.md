@@ -1,4 +1,4 @@
-### Hi hi hello! 👋 
+### Hello! 👋 
 
 👩🏻‍💻 I’m a 3rd year studying Computer Science and Cognitive Science at the University of Toronto!
 
