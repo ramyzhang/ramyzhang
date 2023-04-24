@@ -2,9 +2,7 @@
 
 👩🏻‍💻 I’m a 3rd year studying Computer Science and Cognitive Science at the University of Toronto!
 
-👀 I love [game development](https://mimimosa.itch.io/)!
-
-🌱 I’m currently learning about the basics of machine learning (parametric models currently and eventually, unsupervised and reinforcement learning)!
+👀 I love [game development](https://mimimosa.itch.io/)! Realizing something that was just a fun idea into a virtual world that people can fall into and play in is one of the best feelings ever.
 
 🎶 My biggest project at the moment is co-leading the development of a [lesson planner tool](https://github.com/uoftblueprint/sistema) on iOS/Android (React Native) for Sistema Toronto, an early childhood music education non-profit.
 
