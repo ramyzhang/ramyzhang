@@ -1,6 +1,6 @@
 ### Hello! 👋 
 
-👩🏻‍💻 I’m a 3rd year studying Computer Science and Cognitive Science at the University of Toronto!
+👩🏻‍💻 I’m a 4th year studying Computer Science and Cognitive Science at the University of Toronto!
 
 👀 I love [game development](https://mimimosa.itch.io/)! Realizing something that was just a fun idea into a virtual world that people can fall into and play in is one of the best feelings ever.
 
