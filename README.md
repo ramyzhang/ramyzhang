@@ -4,7 +4,7 @@
 
 👀 I love [game development](https://mimimosa.itch.io/)! Realizing something that was just a fun idea into a virtual world that people can fall into and play in is one of the best feelings ever.
 
-🎶 My biggest project at the moment is co-leading the development of a [lesson planner tool](https://github.com/uoftblueprint/sistema) on iOS/Android (React Native) for Sistema Toronto, an early childhood music education non-profit.
+🎶 My biggest project so far was co-leading the development of a [lesson planner tool](https://github.com/uoftblueprint/sistema) on iOS/Android (React Native) for Sistema Toronto, an early childhood music education non-profit.
 
 📫 Check out my [personal website](https://ramyzhang.com/) to learn more about me!
 
