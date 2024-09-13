@@ -2,7 +2,7 @@
 
 👩🏻‍💻 I’m a 2024 New Grad who studied Computer Science and Cognitive Science at the University of Toronto! 
 
-💼 Currently working as a Software Developer Intern at CGI, but looking for opportunities at game studios as an engineer or audio programmer!
+💼 Currently working as a Software Developer Intern at CGI, and looking for full-time opportunities at game studios as an engineer or audio programmer!
 
 👀 I love [game development](https://mimimosa.itch.io/)! Realizing something that was just a fun idea into a virtual world that people can fall into and play in is one of the best feelings ever.
 
